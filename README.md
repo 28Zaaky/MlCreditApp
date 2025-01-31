@@ -32,3 +32,4 @@ Ce projet permet de :
 * Comprendre les facteurs déterminants dans l'octroi d'un prêt.
 * Automatiser la prise de décision à partir d'un modèle prédictif.
 * Optimiser les critères d'approbation des crédits pour les institutions financières.
+# MlCreditApp
